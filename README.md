@@ -18,3 +18,5 @@ based on students' previous use of the system and how many hints they used.
 To do this we will I built a decision tree using the "party" package. 
 The party package builds decision trees based on a set of statistical stopping rules.
 
+![Teacher Actions Decision Tree](https://github.com/artwang31/Intelligent-Tutor-Systems-Random-Forests-and-Decision-Trees/blob/master/Teacher%20Actions%20Decision%20Tree.png)
+
